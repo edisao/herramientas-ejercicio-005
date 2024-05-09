@@ -6,6 +6,7 @@ Levantar el servicio de Flask
 
 ![alt text](https://github.com/edisao/herramientas-ejercicio-005/blob/main/images/pre-requisito.png?raw=true)
 
+Mediante el siguiente script (ejecutado en clases)
 ```python
 from flask import Flask, request, jsonify, render_template
 from metodos import load_models, predict
